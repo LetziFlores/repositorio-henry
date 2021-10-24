@@ -6,3 +6,4 @@ Claro que no
 Claro que yes
 Ya entendi
 Yo tambien
+Ultima tambien
